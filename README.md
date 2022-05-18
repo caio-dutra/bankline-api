@@ -1,6 +1,15 @@
-# Getting Started
+# API de extrato bancário 
+### Vizualização da API(swagger): http://caio-bankline-api.herokuapp.com/swagger-ui/index.html
 
-### Reference Documentation
+ * Método GET /movimentacoes: Expõe as movimentações realizadas na API.
+ * Método POST /movimentacoes: Realiza novas movimentações na API.
+<br><br />
+ * Método GET /correntistas: Expõe todos correntistas cadastrados na API.
+ * Método POST /correntistas: Cadastra novos correntistas na API.
+
+<br><br />
+
+#### Reference Documentation
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
