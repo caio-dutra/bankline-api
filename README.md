@@ -1,4 +1,4 @@
-# API de extrato bancário 
+# APIrest de extrato bancário 
 #### Vizualização da API(swagger): http://caio-bankline-api.herokuapp.com/swagger-ui/index.html
 
  * Método GET /movimentacoes: Expõe as movimentações realizadas na API.
